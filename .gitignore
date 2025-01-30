@@ -1,0 +1,5 @@
+# ignores datasets
+data/
+
+# ignore chroma info
+chroma/
